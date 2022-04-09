@@ -1,2 +1,2 @@
 # Mine-Creative
-Repositort untuk membuat website bisnis MineCreative
+Repositori untuk membuat website bisnis MineCreative
